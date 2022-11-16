@@ -1,0 +1,68 @@
+[
+    {
+        "user_id": 1,
+        "user_email": "tgltn@gmail.com",
+        "user_name": "TGLTN",
+        "phone_no": 33354645,
+        "address": "Australia",
+        "city": "Australia",
+        "country": "Australia",
+        "post_code": 114032,
+        "login": "tgltn",
+        "password": "Soniqs4ever"
+
+    },
+    {
+        "user_id": 2,
+        "user_email": "shrimzy@gmail.com",
+        "user_name": "Shrimp",
+        "phone_no": 33354145,
+        "address": "New York",
+        "city": "America",
+        "country": "USA",
+        "post_code": 332032,
+        "login": "Realshrimzy",
+        "password": "Soniqs4ever"
+
+    },
+    {
+        "user_id": 3,
+        "user_email": "hwinn@gmail.com",
+        "user_name": "Hunter",
+        "phone_no": 2414645,
+        "address": "Lost Ark",
+        "city": "New World",
+        "country": "Everfall",
+        "post_code": 414087,
+        "login": "hwinn",
+        "password": "Soniqs4ever"
+
+    },
+    {
+        "user_id": 4,
+        "user_email": "MIME@gmail.com",
+        "user_name": "MIME",
+        "phone_no": 13354645,
+        "address": "Australia",
+        "city": "Australia",
+        "country": "Australia",
+        "post_code": 111032,
+        "login": "mime",
+        "password": "Soniqs4ever"
+
+    },
+    {
+        "user_id": 5,
+        "user_email": "snakerr@gmail.com",
+        "user_name": "Snakerr",
+        "phone_no": 341354645,
+        "address": "canada",
+        "city": "Canada",
+        "country": "USA",
+        "post_code": 147132,
+        "login": "Snakerr",
+        "password": "Eu@united"
+
+    }
+
+]

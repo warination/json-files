@@ -1,0 +1,16 @@
+[
+    {
+        "admin_id": "netflix01",
+        "admin_name" : "rustmar",
+        "admin_login": "rustMar007",
+        "admin_passqord": "Rustmar@123",
+        "admin_email": "rustmarop@gmail.com"
+    },
+    {
+        "admin_id": "netflix01",
+        "admin_name" : "adouz1",
+        "admin_login": "qmadouz1",
+        "admin_passqord": "igladouz1",
+        "admin_email": "qmforever@gmail.com"
+    }
+]
